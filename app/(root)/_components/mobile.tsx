@@ -26,7 +26,7 @@ function Mobile() {
 			<SheetContent side={'left'} aria-describedby={undefined}>
 				<SheetTitle>
 					<Link href={'/'}>
-						<h1 className='text-4xl font-creteRound'>Udemy</h1>
+						<h1 className='text-4xl font-creteRound'>Bekki</h1>
 					</Link>
 				</SheetTitle>
 				<Separator className='my-3' />
