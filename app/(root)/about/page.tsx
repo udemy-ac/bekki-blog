@@ -29,7 +29,7 @@ function AboutPage() {
 				</div>
 			</div>
 			<h1 className='text-center text-4xl font-creteRound'>
-				Biz <span className='text-blue-500 text-5xl ml-2'>Udemy Academy</span>
+				Biz <span className='text-blue-500 text-5xl ml-2'>Bekki Academy</span>
 				<br /> barcha sohalar jamlangan jamiyat
 			</h1>
 
@@ -66,7 +66,7 @@ function AboutPage() {
 
 			<div className='max-w-6xl mx-auto mt-12 flex flex-col text-center space-y-4 text-muted-foreground'>
 				<p>
-					"Udemy Academy – bu barcha IT va kreativ sohalarni o‘zida jamlagan
+					"Bekki Academy – bu barcha IT va kreativ sohalarni o‘zida jamlagan
 					o‘quv jamiyati. Bizning asosiy yo‘nalishlarimiz Web Development va
 					Dizayn, lekin shuningdek siz dasturlashning boshqa tarmoqlari, raqamli
 					marketing, ma’lumotlar tahlili va zamonaviy texnologiyalar bo‘yicha
@@ -79,7 +79,7 @@ function AboutPage() {
 				</p>
 				<p>
 					Nega biz? <br/>
-					“Udemy Academy o‘quvchilarga real loyihalar, amaliy
+					“Bekki Academy o‘quvchilarga real loyihalar, amaliy
 					mashg‘ulotlar va tajribali instruktorlar bilan ishlash imkonini
 					beradi. Bizning kurslarimiz nafaqat bilim beradi, balki sizni IT va
 					dizayn sohasida haqiqiy professional qilishga yo‘naltirilgan.”.
