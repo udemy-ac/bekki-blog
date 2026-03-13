@@ -17,7 +17,7 @@ const workSans = Work_Sans({
 })
 
 export const metadata: Metadata = {
-	title: 'Udemy dasturlashga oid maqolalar',
+	title: 'Bekki dasturlashga oid maqolalar',
 	description:
 		'Dasturlash haqida yangiliklar, maslahatlar, va dasturlash sohasidagi eng soʻnggi xabarlar. Bizning blogda dasturlashni oʻrganish va rivojlantirish uchun qoʻllanma topishingiz mumkin.',
 	icons: { icon: '/favicon.ico' },
